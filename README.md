@@ -65,16 +65,16 @@ ARIMA	1.23	1.67	3.45%
 LSTM	1.05	1.40	2.98%
 Prophet	1.10	1.50	3.10%
 
-Contributing
+Contributing:
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
+Fork the repository
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Open a Pull Request.
 
-Acknowledgements
+Acknowledgements:
 Pandas Documentation
 Scikit-learn Documentation
 TensorFlow/Keras Documentation
